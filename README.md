@@ -1,23 +1,22 @@
-# Jarvis - Virtual AI Assistant 🤖
+Jarvis - Virtual AI Assistant 🤖
+This is a hands-on project developed as part of the Code With Harry Python programming course. Jarvis is a voice-activated virtual assistant capable of performing web tasks, fetching news, and engaging in AI-powered conversations.
 
-This is a hands-on project developed as part of the **Code With Harry** Python programming course. Jarvis is a voice-activated virtual assistant capable of performing web tasks, fetching news, and engaging in AI-powered conversations.
+🚀 Key Features
+Voice Recognition: Integrated with Google Speech API for high-accuracy voice command processing.
 
----
+Smart Web Navigation: Quickly opens Google, YouTube, Facebook, and LinkedIn via voice commands.
 
-## 🚀 Key Features
-* **Voice Recognition:** Integrated with Google Speech API for high-accuracy voice command processing.
-* **Smart Web Navigation:** Quickly opens Google, YouTube, Facebook, and LinkedIn via voice commands.
-* **Dynamic News Updates:** Fetches real-time top headlines from India using the NewsAPI.
-* **AI Powered:** Powered by OpenAI's GPT-3.5 Turbo to provide intelligent, context-aware responses.
-* **Music Playback:** Custom library support to play tracks directly from the web.
+Dynamic News Updates: Fetches real-time top headlines from India using the NewsAPI.
 
----
+AI Powered: Powered by OpenAI's GPT-3.5 Turbo to provide intelligent, context-aware responses.
 
-## 🛠 Tech Stack & Installation
-The project uses a **Virtual Environment (venv)** to ensure library isolation and avoid version conflicts.
+Music Playback: Custom library support to play tracks directly from the web.
 
-### 1. Environment Configuration
-```powershell
+🛠 Tech Stack & Installation
+The project uses a Virtual Environment (venv) to ensure library isolation and avoid version conflicts.
+
+1. Environment Configuration
+PowerShell
 # Create virtual environment
 python -m venv .venv
 

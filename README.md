@@ -142,7 +142,7 @@ This ensures that the main program runs only when the file is executed directly,
 ## 📷 Future Improvements
 
 * GUI Interface 🖥️
-* Wake word detection ("Hey Jarvis") 🎙️
+* Wake word detection ("Jarvis") 🎙️
 * Task automation (emails, reminders) 📅
 * Offline AI model integration 🤖
 
